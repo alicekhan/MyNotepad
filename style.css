@@ -12,13 +12,13 @@ body {
   text-align: center;
 }
 /*text animation*/
-body h2.text{
+/* body h2.text{
   background: #0e1e37;
   min-height: 100vh;
   display: flex;
   justify-content: center;
   align-items: center;
-}
+} */
 h2.text {
   position: relative;
   font-size: 6em;
